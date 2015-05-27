@@ -1,6 +1,6 @@
 # まるばつクイズを作ろう(解答)
 
-## htmlのソースコード
+## HTMLのソースコード
 ```
 <!DOCTYPE html>/Users/ryoko/Documents/DIT/shorui/marubatsu.md
 <html>
@@ -25,7 +25,7 @@
 </html>
 ```
 
-## cssのソースコード
+## CSSのソースコード
 ```
 .wrapper{
   margin: 0 auto;
@@ -60,7 +60,7 @@ h1{
 
 ```
 
-## javascriptのソースコード
+## JavaScriptのソースコード
 ```
 var qa = [ 
   ["「テトリス（ゲーム）」を開発したのは、日本人だ。", 2],
