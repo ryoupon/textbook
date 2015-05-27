@@ -18,7 +18,7 @@ DITが開催する勉強会の教材です。
 
 ##第6回勉強会
 1. [まるばつクイズを作ろう](6/marubatsu.md)
-
+2. [まるばつクイズを作ろう](6/marubatsu2/md)
 ## その他
 1. [プロキシ設定（Mac編）](common/proxy_on_mac.md)
 1. [プロキシ設定（Windows編）](common/proxy_on_windows.md)
